@@ -40,3 +40,9 @@ alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resource
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+
+# GitLab CE folder
+alias gl='cd /Users/filipalacerda/Documents/git/gitlab-development-kit/gitlab'
+# GitLab EE folder
+alias glee='cd /Users/filipalacerda/Documents/git/gdk-ee/gitlab'
