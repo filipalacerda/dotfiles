@@ -138,5 +138,3 @@
   path = .gitconfig.local
 
 [user]
-	name = Filipa Lacerda
-	email = filipa@gitlab.com
